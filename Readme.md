@@ -1,4 +1,1 @@
-
-Compile the code using 
-
-mvn compile assembly:single
+# Java - Apache Kafka
